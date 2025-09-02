@@ -1,6 +1,6 @@
 # FEniCSx Exercises
 
-This repository contains a collection of Python notebooks and scripts for practicing with [FEniCSx](https://fenicsproject.org/), a powerful open-source computing platform for solving partial differential equations (PDEs) using the finite element method (FEM).
+This repository contains a collection of Python notebooks and scripts for practicing with [FEniCSx](https://fenicsproject.org/), a powerful open-source python meta-package for solving partial differential equations (PDEs) using the finite element method (FEM).
 
 ## Contents
 
@@ -25,6 +25,7 @@ This repository contains a collection of Python notebooks and scripts for practi
 - `6.Linear_elasticity.ipynb` – Linear elasticity problem
 - `7.Poiseulle_flow.ipynb` – Poiseuille flow
 - `8.Flow_past_cylinder.ipynb` – Flow past a cylinder
+- 'Robin_Neuman_Dirichelet.ipynb' - The see how to apply at the sime time both Dirichelet and Neumann BC
 
 ## License
 
