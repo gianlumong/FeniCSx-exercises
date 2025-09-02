@@ -26,7 +26,3 @@ This repository contains a collection of Python notebooks and scripts for practi
 - `7.Poiseulle_flow.ipynb` – Poiseuille flow
 - `8.Flow_past_cylinder.ipynb` – Flow past a cylinder
 - `Robin_Neuman_Dirichelet.ipynb` - To see how to apply at the sime time both Dirichelet and Neumann BC
-
-## License
-
-Distributed under the MIT License.
