@@ -25,7 +25,7 @@ This repository contains a collection of Python notebooks and scripts for practi
 - `6.Linear_elasticity.ipynb` – Linear elasticity problem
 - `7.Poiseulle_flow.ipynb` – Poiseuille flow
 - `8.Flow_past_cylinder.ipynb` – Flow past a cylinder
-- `Robin_Neuman_Dirichelet.ipynb` - The see how to apply at the sime time both Dirichelet and Neumann BC
+- `Robin_Neuman_Dirichelet.ipynb` - To see how to apply at the sime time both Dirichelet and Neumann BC
 
 ## License
 
